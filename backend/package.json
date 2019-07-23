@@ -1,0 +1,28 @@
+{
+  "name": "qsms",
+  "version": "1.0.0",
+  "description": "SMS Gateway Queue System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icesourceg/Qsms.git"
+  },
+  "keywords": [
+    "SMS",
+    "SMSgateway"
+  ],
+  "author": "icga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icesourceg/Qsms/issues"
+  },
+  "homepage": "https://github.com/icesourceg/Qsms#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.10.2",
+    "sequelize-cli": "^5.5.0"
+  }
+}
